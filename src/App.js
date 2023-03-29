@@ -7,7 +7,13 @@ function App() {
   //   <Card instruccion="clickear"></Card>
   // );
 
-  return(<Button instruccion = "clickeame"></Button>)
+  // return(<Button instruccion = "clickeame"></Button>)
+
+  // const contenido = () => {[1,2,3].forEach(element => {
+  //   return (<Button instruccion = "hola"></Button>);   
+  // });
+  // }
+
 }
 
 export default App;
