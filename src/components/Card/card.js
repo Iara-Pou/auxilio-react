@@ -12,4 +12,11 @@ const Card = (instruccion) => {
    )
 }
 
+    //se guarda en un elemento con += y después se exporta? Confuso
+  const contenido = () => {
+    [1,2,3].map(element => {
+    <Button instruccion = "hola"></Button>;   
+  });
+  }
+
 export default Card;
